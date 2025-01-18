@@ -1,0 +1,30 @@
+.body {
+  background: #ffcd38;
+}
+.div {
+  width: 850px;
+  height: 300px;
+  margin-top: 266px;
+  margin-left: 280px;
+  border-radius: 9px;
+  background: orange;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.div1 {
+  width: 221px;
+  height: 235px;
+  border-radius: 9px;
+  background: #000;
+  color: white;
+  text-align: center;
+}
+.h1{
+    font-size: 90px;
+    font-weight: 400;
+}
+.p{
+  transform: translateY(-50px);
+}
+
